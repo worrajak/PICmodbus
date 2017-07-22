@@ -38,6 +38,9 @@ and config pin
 #define MODBUS_SERIAL_ENABLE_PIN   PIN_B2   // Controls DE pin for RS485
 #define MODBUS_SERIAL_RX_ENABLE    0   // Controls RE pin for RS485
 ```
+![ScreenShot](https://github.com/worrajak/PICmodbus/blob/master/ModBus003.jpg?raw=true)
+
+![ScreenShot](https://github.com/worrajak/PICmodbus/blob/master/ModBus005.jpg?raw=true)
 
 2. Slave modbus PIC16F690 
 
@@ -66,6 +69,7 @@ and config pin
 #define MODBUS_SERIAL_ENABLE_PIN   PIN_B4   // Controls DE pin for RS485
 #define MODBUS_SERIAL_RX_ENABLE    0    // Controls RE pin for RS485
 ```
+![ScreenShot](https://github.com/worrajak/PICmodbus/blob/master/ModBus004.jpg?raw=true)
 
 ![ScreenShot](https://github.com/worrajak/PICmodbus/blob/master/Modbus001.jpg?raw=true)
 
